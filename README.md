@@ -6,9 +6,7 @@ Welcome to the **Hospital Emergency Room Analysis** project. This Excel-based da
 
 ## 📸 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/Ravikumarkhasa3264/Hospital-Emergency-room-analysis/main/Hospital%20Dashboard.jpg" alt="Hospital Emergency Room Dashboard" width="800"/>
-
-> 💡 *If the image doesn’t load, make sure you’ve uploaded `Hospital Dashboard.jpg` to your repository.*
+https://github.com/Ravikumarkhasa3264/Hospital-Emergency-room-analysis/blob/main/Hospital%20Emergency%20Final%20Dashboard.png
 
 <br>
 
@@ -39,24 +37,6 @@ Welcome to the **Hospital Emergency Room Analysis** project. This Excel-based da
 - Wait times increase during high-traffic periods  
 - Certain symptoms lead to higher admission rates  
 - Dashboard enables hospital management to plan staff & resources effectively
-
-<br>
-
-## 📁 Dataset
-
-> The dataset is sample emergency room data, cleaned and anonymized for analysis.
-
-<br>
-
-## ▶️ How to Use the Dashboard
-
-1. Download the Excel file: `Hospital_Emergency_Dashboard.xlsx`  
-2. Open it in **Microsoft Excel (2016 or later)**  
-3. Use slicers to filter data by:
-   - Day
-   - Reason for visit
-   - Admission status  
-4. Explore charts and metrics for insights
 
 <br>
 
